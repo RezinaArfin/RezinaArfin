@@ -16,6 +16,7 @@ I’m a **Technical Project Manager** with a passion for driving innovation and 
 ---
 
 ### 💡 Strengths
+- Documenting project requirements and core features in details 
 - Strong **communication & collaboration** skills  
 - Experience bridging **technical and business teams**  
 - Ability to deliver results in **dynamic, high-performing environments**  
