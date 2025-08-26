@@ -28,4 +28,5 @@ If you’re hiring or want to talk tech, digital strategy, or project leadership
 
 [LinkedIn](https://www.linkedin.com/in/rezina-a-87ba548a/) | [Portfolio/Website](https://www.notion.so/509955b1d5b642c89c6c004466bf4103)  
 
-
+I am studying the commands of git and learning all about this because I want to gain more skills. I want to build small projects and get better with time. My goal is to be a proper Technical Project Manager. 
+Currently I understand my gap in knowledge so I try my very best to upgrade my skills and be suitable day-by-day.
